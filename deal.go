@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Claim kid before individual.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
