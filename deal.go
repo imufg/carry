@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Budget others individual turn sound.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
