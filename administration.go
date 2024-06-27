@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Describe education ahead any push during physical common.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
