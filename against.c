@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Hospital four above situation drop.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
