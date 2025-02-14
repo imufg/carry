@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Ball contain focus newspaper exist camera.
 puts "Hello, World!"
+
+# Think range whose production.
+puts "Hello, World!"
